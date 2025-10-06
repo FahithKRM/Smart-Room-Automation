@@ -108,17 +108,17 @@ https://www.tinkercad.com/things/3gTcExSN1LN-smart-room
 - **Smoke Detection Priority**: If smoke is detected, the system activates the exhaust fan and buzzer immediately, deferring unauthorized access warnings until smoke levels drop below 600.
 
 ## Images
-- [Circuit Overview]
-- <img width="1043" height="720" alt="image" src="https://github.com/user-attachments/assets/950fd7ef-152d-4b52-aa6a-19065cc9b68f" />
+- Circuit Overview
+<img width="1043" height="720" alt="image" src="https://github.com/user-attachments/assets/950fd7ef-152d-4b52-aa6a-19065cc9b68f" />
 
-- [Smoke Detection Active] *(fan and buzzer on)*
-- <img width="1296" height="476" alt="image" src="https://github.com/user-attachments/assets/9d613da1-ac7f-4047-99c5-d8ee07cf1fb2" />
+- Smoke Detection Active *(fan and buzzer on)*
+<img width="1296" height="476" alt="image" src="https://github.com/user-attachments/assets/9d613da1-ac7f-4047-99c5-d8ee07cf1fb2" />
 
-- [Door Unlocked] *(servo at 90°, green led blinking)*
-- <img width="1200" height="778" alt="image" src="https://github.com/user-attachments/assets/7f1c8f5f-2e59-4464-ab57-9b403e41b84d" />
+- Door Unlocked *(servo at 90°, green led blinking)*
+<img width="1200" height="778" alt="image" src="https://github.com/user-attachments/assets/7f1c8f5f-2e59-4464-ab57-9b403e41b84d" />
 
-- Occupancy Display] *(LCD showing people count, count > 0 turn on blue led)*
-- <img width="1040" height="642" alt="image" src="https://github.com/user-attachments/assets/af5c2d9c-63b2-484d-acb2-b75b4274e86b" />
+- Occupancy Display *(LCD showing people count, count > 0 turn on blue led)*
+<img width="1040" height="642" alt="image" src="https://github.com/user-attachments/assets/af5c2d9c-63b2-484d-acb2-b75b4274e86b" />
 
 
 ## How to Use
